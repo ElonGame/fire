@@ -26,6 +26,8 @@ I didn't include the shader for the embers, but it's easy to reuse the FBM() noi
 
 Take a look at the settings on the fire material: toggle depth aware on/off and change the detail level (number of noise octaves).
 
+You can affect the look of the effect a lot by scaling the fire object non-uniformly (firewall, stove top, etc.) and by painting a differently shaped fire texture.
+
 License
 -------
 Public domain.
